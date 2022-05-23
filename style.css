@@ -1,0 +1,28 @@
+#l1{
+    border-radius: 30%;
+    border: 2px  solid;
+    border-color: rgb(77, 168, 136);
+    margin: 2%;
+    text-align: center;
+    background-color: rgb(248, 249, 249);
+    font-size: large;
+
+}
+
+#l2{
+    border: solid;
+    border-color: rgb(77, 168, 136);
+    background-color: rgb(77, 168, 136);
+    border-radius: 100%;
+    font-size: 50px;
+    margin: 3%;
+
+}
+#l3{
+    background-color: rgb(8, 8, 217);
+    margin: 3%;
+    padding: 2%;
+    box-shadow: 0px 10px 10px 0px black;
+
+    
+}
